@@ -1,0 +1,12 @@
+#comment-btn{
+    background-color: blueviolet;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+#comment-btn:hover{
+    background-color: rgb(69, 7, 127);
+}
